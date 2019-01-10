@@ -18,7 +18,7 @@ replace (
 )
 
 require (
-	github.com/KylinHe/aliensboot-core v0.0.1
+	github.com/KylinHe/aliensboot-core v0.0.2
 	github.com/KylinHe/aliensboot-server v0.0.1
 	github.com/gogo/protobuf v1.2.0
 	github.com/pkg/errors v0.8.0
