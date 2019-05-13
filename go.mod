@@ -18,9 +18,10 @@ replace (
 )
 
 require (
-	github.com/KylinHe/aliensboot-core v0.0.5
+	github.com/KylinHe/aliensboot-core v0.0.8
 	github.com/KylinHe/aliensboot-server v0.0.1
 	github.com/gogo/protobuf v1.2.0
 	github.com/pkg/errors v0.8.0
+	github.com/ugorji/go v1.1.4 // indirect
 	github.com/xtaci/kcp-go v5.0.4+incompatible
 )
