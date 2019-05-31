@@ -2,7 +2,7 @@ module github.com/KylinHe/aliensboot-client-test
 
 replace (
 	cloud.google.com/go v0.26.0 => github.com/GoogleCloudPlatform/gcloud-golang v0.32.0
-	github.com/KylinHe/aliensboot-core v0.0.1 => ../aliensboot-core
+	github.com/KylinHe/aliensboot-core v0.1.0 => ../aliensboot-core
 	github.com/KylinHe/aliensboot-server v0.0.1 => ../aliensboot-demo/src/github.com/KylinHe/aliensboot-server
 	golang.org/x/crypto v0.0.0-20180904163835-0709b304e793 => github.com/golang/crypto v0.0.0-20181106171534-e4dc69e5b2fd
 	golang.org/x/lint v0.0.0-20180702182130-06c8688daad7 => github.com/golang/lint v0.0.0-20181026193005-c67002cb31c3
